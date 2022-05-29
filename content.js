@@ -5,4 +5,4 @@ s.onload = function () {
     this.remove();
 };
 (document.head || document.documentElement).appendChild(s);
-console.log("[FL Time Keeper] Inserting interceptor...");
+console.log("[FL Request Sounder] Inserting interceptor...");
